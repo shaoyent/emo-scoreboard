@@ -12,8 +12,9 @@ The categories of targeted emotions may also differ.
 | UA | WA | F1 | Model | Paper | Modality | Year | Code |  Notes   |
 | :-: | :-: | :-: | :-:  | :-: | :-:  | :-:  | :-:  | :-: |
 | 65.9 | 64.97 | - | E-vector + MCNN + LSTM | [Deep neural networks for emotion recognition combining audio and transcripts](https://arxiv.org/pdf/1911.00432.pdf) | Audio+Text | 2019 | - | - |
-| 61.7 | 64.5 | - | CNN+LSTM | [CNN+LSTM Architecture for Speech Emotion Recognition with Data Augmentation](https://arxiv.org/pdf/1802.05630v2.pdf) | Audio | 2019 | - | - |
 | 65.7 | - | - | ProgNet | [Progressive Neural Networks for Transfer Learning in Emotion Recognition](https://arxiv.org/pdf/1706.03256.pdf) | Audio | 2017 | - | - |
+| 64.74 | - | - | 3D ACRNN | [3-D Convolutional Recurrent Neural Networks With Attention Model for Speech Emotion Recognition](https://ieeexplore.ieee.org/document/8421023) | Audio | 2018 | [GitHub](https://github.com/xuanjihe/speech-emotion-recognition) | - |
+| 61.7 | 64.5 | - | CNN+LSTM | [CNN+LSTM Architecture for Speech Emotion Recognition with Data Augmentation](https://arxiv.org/pdf/1802.05630v2.pdf) | Audio | 2019 | - | - |
 
 ### 5-fold cross validation
 | UA | WA | F1 | Model | Paper | Modality | Year | Code |  Notes   |
