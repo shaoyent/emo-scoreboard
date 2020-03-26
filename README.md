@@ -11,6 +11,7 @@ The categories of targeted emotions may also differ.
 ### 10-fold cross validation
 | UA | WA | F1 | Model | Paper | Modality | Year | Code |  Notes   |
 | :-: | :-: | :-: | :-:  | :-: | :-:  | :-:  | :-:  | :-: |
+| 77.6 | 76.5 | - | Multi Hop Attention | [Speech Emotion Recognition Using Multi-hop Attention Mechanism](https://ieeexplore.ieee.org/abstract/document/8683483) | Audio+Text | 2019 | - | - |
 | 65.9 | 64.97 | - | E-vector + MCNN + LSTM | [Deep neural networks for emotion recognition combining audio and transcripts](https://arxiv.org/pdf/1911.00432.pdf) | Audio+Text | 2019 | - | - |
 | 65.7 | - | - | ProgNet | [Progressive Neural Networks for Transfer Learning in Emotion Recognition](https://arxiv.org/pdf/1706.03256.pdf) | Audio | 2017 | - | - |
 | 64.74 | - | - | 3D ACRNN | [3-D Convolutional Recurrent Neural Networks With Attention Model for Speech Emotion Recognition](https://ieeexplore.ieee.org/document/8421023) | Audio | 2018 | [GitHub](https://github.com/xuanjihe/speech-emotion-recognition) | - |
