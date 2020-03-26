@@ -27,7 +27,7 @@ The categories of targeted emotions may also differ.
 | UA | WA | F1 | Model | Paper | Modality | Year | Code |  Notes   |
 | :-: | :-: | :-: | :-:  | :-: | :-:  | :-:  | :-:  | :-: |
 |   80.6 |  82.1 | - | HiGRU | [HiGRU: Hierarchical Gated Recurrent Units for Utterance-Level Emotion Recognition](https://www.aclweb.org/anthology/N19-1037.pdf) | Text | 2019 | [GitHub](https://github.com/wxjiao/HiGRUs) | - |
-|   - |  65.25 | 64.18 | DialogueGCN | [DialogueGCN: A Graph Convolutional Neural Network for Emotion Recognition in Conversation](https://arxiv.org/pdf/1908.11540.pdf) | Text | 2019 | [GitHub[(https://github.com/SenticNet/conv-emotion) | - |
+|   - |  65.25 | 64.18 | DialogueGCN | [DialogueGCN: A Graph Convolutional Neural Network for Emotion Recognition in Conversation](https://arxiv.org/pdf/1908.11540.pdf) | Text | 2019 | [GitHub](https://github.com/SenticNet/conv-emotion) | - |
 |   - |  63.40 | 62.75 | DialogueRNN | [DialogueRNN: An Attentive RNN for Emotion Detection in Conversations](https://www.aaai.org/ojs/index.php/AAAI/article/view/4657/4535) | Text | 2019 | [GitHub](https://github.com/SenticNet/conv-emotion/tree/master/DialogueRNN) | - |
 |   58.8 |  63.5 | - | RNN | [Automatic Speech Emotion Recognition Using Recurrent Neural Networks with Local Attention](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7952552) | Audio | 2017 | - | - |
 
