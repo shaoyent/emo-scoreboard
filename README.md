@@ -20,7 +20,7 @@ The categories of targeted emotions may also differ.
 ### 5-fold cross validation
 | UA | WA | F1 | Model | Paper | Modality | Year | Code |  Notes   |
 | :-: | :-: | :-: | :-:  | :-: | :-:  | :-:  | :-:  | :-: |
-|  - |  71.8 | - | RNN | [Multimodal Speech Emotion Recognition Using Audio and Text](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8639583) | Audio+Text | 2018 | - | - |
+|  - |  71.8 | - | RNN | [Multimodal Speech Emotion Recognition Using Audio and Text](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8639583) | Audio+Text | 2018 | [GitHub](https://github.com/david-yoon/multimodal-speech-emotion) | - |
 |   62.0 |  67.3 | - | CNN+LSTM | [Efficient Emotion Recognition from Speech Using Deep Learning on Spectrograms](https://www.isca-speech.org/archive/Interspeech_2017/pdfs/0200.PDF) | Audio | 2017 | - | - |
 
 ### Misc
