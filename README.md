@@ -37,10 +37,10 @@ The categories of targeted emotions may also differ.
 ## MSP-IMPROV
 ### 10-fold cross validation
 | UAR | Model | Paper | Modality | Year | Code |  Notes   |
-| :-: | :-: | :-: | :-:  | :-: | :-:  | :-:  | :-:  | :-: |
-| 52.6  | - |[USING REGIONAL SALIENCY FOR SPEECH EMOTION RECOGNITION](https://ieeexplore.ieee.org/abstract/document/7952655) | - | 2017 | - | -|
-| 60.5  | - |[Progressive Neural Networks for Transfer Learning in Emotion Recognition](https://arxiv.org/pdf/1706.03256.pdf) | - | 2017 | - | -|
-| 55.98 | - |[EXPLOITING ACOUSTIC AND LEXICAL PROPERTIES OF PHONEMES TO RECOGNIZE VALENCE FROM SPEECH ](https://ieeexplore.ieee.org/abstract/document/8683190) | - | 2019 | - | -|
-| 52.43 | - |[Direct Modelling of Speech Emotion from Raw Speech](https://arxiv.org/pdf/1904.03833.pdf) | - | 2020 | - | -|
+| :-: | :-: | :-: | :-:  | :-: | :-:  | :-:  | 
+| 52.6  | - | [USING REGIONAL SALIENCY FOR SPEECH EMOTION RECOGNITION](https://ieeexplore.ieee.org/abstract/document/7952655) | - | 2017 | - | - |
+| 60.5  | - | [Progressive Neural Networks for Transfer Learning in Emotion Recognition](https://arxiv.org/pdf/1706.03256.pdf) | - | 2017 | - | - |
+| 55.98 | - | [EXPLOITING ACOUSTIC AND LEXICAL PROPERTIES OF PHONEMES TO RECOGNIZE VALENCE FROM SPEECH ](https://ieeexplore.ieee.org/abstract/document/8683190) | - | 2019 | - | - |
+| 52.43 | - | [Direct Modelling of Speech Emotion from Raw Speech](https://arxiv.org/pdf/1904.03833.pdf) | - | 2020 | - | - |
 
 
